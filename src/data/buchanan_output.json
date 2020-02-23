@@ -1,0 +1,5932 @@
+[
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "INV $/HITCH-ARROW": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "INV $",
+                        "pass": 5,
+                        "run": 1,
+                        "total": 6
+                    },
+                    {
+                        "offConcept": "MONEY",
+                        "pass": 2,
+                        "run": 1,
+                        "total": 3
+                    },
+                    {
+                        "offConcept": "LOBO",
+                        "pass": 1,
+                        "run": 1,
+                        "total": 2
+                    },
+                    {
+                        "offConcept": "VERTS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "COUNTER RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "F SLUGGO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "CROSSERS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "POWER RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "CHINA COP",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "CHINA/FADE-POST",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "PEEL RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "SLANTS-SWING",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "STRETCH PIN PULL RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "LB PEEL",
+                        "pass": 0,
+                        "run": 11,
+                        "total": 11
+                    },
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 6,
+                        "total": 6
+                    },
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 6,
+                        "total": 6
+                    },
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "STRETCH",
+                        "pass": 0,
+                        "run": 3,
+                        "total": 3
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 21,
+                "run": 27,
+                "total": 48
+            },
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST/HITCHES": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL RPO",
+                        "pass": 1,
+                        "run": 1,
+                        "total": 2
+                    },
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS",
+                "pass": 2,
+                "run": 1,
+                "total": 3
+            },
+            {
+                "actions": [
+                    {
+                        "VERTS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "VERTS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "MESH PYRAMID",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "CHOP/FADE-POST",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "DBP",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST PRO TWINS Y OFF",
+                "pass": 4,
+                "run": 0,
+                "total": 4
+            },
+            {
+                "actions": [
+                    {
+                        "PWR O ST/HITCH SCR WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y SNIF",
+                "pass": 1,
+                "run": 1,
+                "total": 2
+            },
+            {
+                "actions": [
+                    {
+                        "BENGAL": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "BENGAL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "P PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            },
+            {
+                "actions": [
+                    {
+                        "SCISSORS/Z POST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "SCISSORS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "P PRO TWINS UP",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 30,
+        "run": 29,
+        "totalPlays": 59
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "INV $/IN-ARROW": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "INV $",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "INV $/CURL-FLAT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "INV $",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "MONEY/SLANT-ARROW": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "MONEY",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "INV $/SLANT-ARROW": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "INV $",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "INV $/X SLANT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "INV $",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "INV $/SLANTS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "INV $",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LOBO": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LOBO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LOBO POST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LOBO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LOBO": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LOBO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "PIVOT-WHEEL-OUT",
+                        "pass": 3,
+                        "run": 1,
+                        "total": 4
+                    },
+                    {
+                        "offConcept": "VERTS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "COMEBACK-FLAT-CORNER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "COMEBACK-FLAT-OUT",
+                        "pass": 2,
+                        "run": 1,
+                        "total": 3
+                    },
+                    {
+                        "offConcept": "FLOOD",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "SPRINT WK",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "ZONE LOCK",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS",
+                "pass": 12,
+                "run": 2,
+                "total": 14
+            },
+            {
+                "actions": [
+                    {
+                        "PIVOT-SLANT-CORNER": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "PIVOT-SLANT-CORNER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 13,
+        "run": 2,
+        "totalPlays": 15
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LOBO/X POCO": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LOBO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "DIG-PIVOT-SEAM",
+                        "pass": 2,
+                        "run": 1,
+                        "total": 3
+                    },
+                    {
+                        "offConcept": "COMEBACK-FLAT-CORNER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "COUNTER RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "F SLUGGO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "FLOOD",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "LB PEEL",
+                        "pass": 0,
+                        "run": 2,
+                        "total": 2
+                    },
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 3,
+                        "total": 3
+                    },
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 3,
+                        "total": 3
+                    },
+                    {
+                        "offConcept": "SPRINT DRAW",
+                        "pass": 0,
+                        "run": 2,
+                        "total": 2
+                    },
+                    {
+                        "offConcept": "PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "ZONE CUT",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 8,
+                "run": 12,
+                "total": 20
+            },
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST/X SLANT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 2,
+                        "total": 2
+                    }
+                ],
+                "offForm": "G WK TREY OPEN",
+                "pass": 1,
+                "run": 2,
+                "total": 3
+            },
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST/X POST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "STRETCH",
+                        "pass": 0,
+                        "run": 3,
+                        "total": 3
+                    }
+                ],
+                "offForm": "G WK TREY OPEN Y OFF",
+                "pass": 1,
+                "run": 3,
+                "total": 4
+            },
+            {
+                "actions": [
+                    {
+                        "PWR O ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 10,
+        "run": 18,
+        "totalPlays": 28
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "DIG-PIVOT-SEAM": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "DIG-PIVOT-SEAM",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "DIG-PIVOT-SEAM": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "DIG-PIVOT-SEAM",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "DIG-PIVOT-SEAM": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "DIG-PIVOT-SEAM",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PIVOT-WHEEL-OUT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "PIVOT-WHEEL-OUT",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PIVOT-WHEEL-OUT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "PIVOT-WHEEL-OUT",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PIVOT-WHEEL-OUT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "PIVOT-WHEEL-OUT",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST/HITCHES": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST/HITCHES": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST/X SLANT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TREY OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "VERTS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "VERTS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "VERTS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "VERTS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "VERTS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "VERTS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "COMEBACK-FLAT-CORNER": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COMEBACK-FLAT-CORNER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "COMEBACK-FLAT-CORNER": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COMEBACK-FLAT-CORNER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "COMEBACK-FLAT-OUT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COMEBACK-FLAT-OUT",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "COMEBACK-FLAT-OUT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COMEBACK-FLAT-OUT",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OY WK/HOT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OY WK/SLANTS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "EMPTY TE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CURL-POST/SLANT-WHEEL": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "CURL-POST/SLANT-WHEEL",
+                        "pass": 1,
+                        "run": 1,
+                        "total": 2
+                    }
+                ],
+                "offForm": "EG TREY OPEN Y OFF TWINS",
+                "pass": 2,
+                "run": 0,
+                "total": 2
+            },
+            {
+                "actions": [
+                    {
+                        "CHINA": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "CHINA",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "QB POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "EG PRO Y OFF TRIPS",
+                "pass": 1,
+                "run": 1,
+                "total": 2
+            }
+        ],
+        "pass": 3,
+        "run": 1,
+        "totalPlays": 4
+    },
+    {
+        "formShell": "EMPTY TE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CURL-POST/SLANT-WHEEL": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "CURL-POST/SLANT-WHEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "EG TREY OPEN Y OFF TWINS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "F SLUGGO": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "F SLUGGO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "F SLUGGO": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "F SLUGGO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "FLOOD": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "FLOOD",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "FLOOD": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "FLOOD",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "MESH PYRAMID": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "MESH PYRAMID",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LOBO/SLANT-SIT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "CROSSERS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "MONEY/SLANT-ARROW": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "MONEY",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "MONEY/SLANT-ARROW": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "MONEY",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ST/BUBBLE WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ST/HITCH SCR WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y SNIF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "BENGAL": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "BENGAL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "P PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "EMPTY TE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CHINA": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "CHINA",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "EG PRO Y OFF TRIPS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CHINA COP": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "CHINA COP",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "FADE-POST/CHINA": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "CHINA/FADE-POST",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CHOP/FADE-POST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "CHOP/FADE-POST",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "DBP": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "DBP",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PEEL WK/FADE-BUBBLE": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "PEEL RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PIVOT-SLANT-CORNER": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "PIVOT-SLANT-CORNER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "SCISSORS/Z POST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "SCISSORS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "P PRO TWINS UP",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "SLANTS-SWING": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "SLANTS-SWING",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "SPRINT WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "SPRINT WK",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST/SLANTS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LB PEEL ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LB PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LB PEEL ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LB PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LB PEEL ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LB PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LB PEEL ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LB PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LB PEEL ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LB PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LB PEEL ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LB PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LB PEEL ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LB PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LB PEEL ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LB PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LB PEEL ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LB PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LB PEEL ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LB PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LB PEEL SAME ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LB PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LB PEEL ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LB PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST/X POST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TREY OPEN Y OFF",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH OG ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH CT ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OY WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OY BASE WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OY WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OY WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OY WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OY WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OY ARC WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OY ARC WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OY ARC WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y SNIF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PRO TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PRO TWINS Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "SPRINT DRAW T WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "SPRINT DRAW",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "SPRINT DRAW WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "SPRINT DRAW",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LB PEEL ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LB PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PEEL ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PIVOT-WHEEL-OUT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "PIVOT-WHEEL-OUT",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "EMPTY TE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "QB PWR O ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "QB POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "EG PRO Y OFF TRIPS",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "ZONE CUT WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "ZONE CUT",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TREY OPEN Y OFF",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "ZONE LOCK ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "ZONE LOCK",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 12,
+                        "total": 12
+                    },
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "PEEL",
+                        "pass": 0,
+                        "run": 2,
+                        "total": 2
+                    }
+                ],
+                "offForm": "PAIR TREY OPEN",
+                "pass": 0,
+                "run": 15,
+                "total": 15
+            },
+            {
+                "actions": [
+                    {
+                        "PWR O ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 4,
+                        "total": 4
+                    },
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "PEEL PRO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PAIR TREY OPEN",
+                "pass": 1,
+                "run": 6,
+                "total": 7
+            },
+            {
+                "actions": [
+                    {
+                        "STRETCH ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK WG TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            },
+            {
+                "actions": [
+                    {
+                        "BENGAL": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "BENGAL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "P PAIR TREY OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 2,
+        "run": 22,
+        "totalPlays": 24
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PWR O ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "POWER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OU ARC WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OU ARC WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OU ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK SLOT PRO",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            },
+            {
+                "actions": [
+                    {
+                        "CTR OU ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "BOOT",
+                        "pass": 1,
+                        "run": 1,
+                        "total": 2
+                    }
+                ],
+                "offForm": "SLOT PRO",
+                "pass": 2,
+                "run": 1,
+                "total": 3
+            },
+            {
+                "actions": [
+                    {
+                        "ZONE ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "ZONE",
+                        "pass": 0,
+                        "run": 5,
+                        "total": 5
+                    },
+                    {
+                        "offConcept": "SLANT-ARROW",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "ACE",
+                "pass": 1,
+                "run": 5,
+                "total": 6
+            },
+            {
+                "actions": [
+                    {
+                        "STRETCH CT WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 2,
+                        "total": 2
+                    },
+                    {
+                        "offConcept": "INV $",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "OUTSIDE VERTS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST ACE",
+                "pass": 2,
+                "run": 2,
+                "total": 4
+            },
+            {
+                "actions": [
+                    {
+                        "STRETCH CT ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "STRETCH PIN PULL RPO",
+                        "pass": 1,
+                        "run": 1,
+                        "total": 2
+                    }
+                ],
+                "offForm": "G WK ACE",
+                "pass": 2,
+                "run": 1,
+                "total": 3
+            }
+        ],
+        "pass": 7,
+        "run": 10,
+        "totalPlays": 17
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OU ARC ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "SLOT PRO",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "UNB PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OU WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "UNB G ST PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            },
+            {
+                "actions": [
+                    {
+                        "JET SWP LD ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "JET SWEEP LD",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "UNB G ST WG TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 2,
+        "totalPlays": 2
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "ZONE ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "ZONE",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "ACE",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "ZONE ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "ZONE",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "ACE",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "ZONE ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "ZONE",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "ACE",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "ZONE ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "ZONE",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "ACE",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "ZONE WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "ZONE",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "ACE",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PEEL ACROSS ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PEEL ACROSS ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PEEL ACROSS ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "PEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PAIR TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH CT WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST ACE",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH CT WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST ACE",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH CT ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK ACE",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK WG TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "SLOT TRIPS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "SLOT TRIPS",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "UNB PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "JET SWP LD ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "JET SWEEP LD",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "UNB G ST WG TREY OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "SLANT-ARROW": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "SLANT-ARROW",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "ACE",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "BOOT O ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "BOOT",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "SLOT PRO",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "BOOT O ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "BOOT",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "SLOT PRO",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "BENGAL": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "BENGAL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "P PAIR TREY OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "INV $": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "INV $",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST ACE",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "OUTSIDE VERTS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "OUTSIDE VERTS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST ACE",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "PAIR TREY OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PEEL ST/Z HITCH": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "PEEL PRO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK PAIR TREY OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH CT ST/U SLANT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK ACE",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "ACE",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH CT ST/Z HITCH": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK ACE",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "DBL TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "VERTS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "VERTS",
+                        "pass": 1,
+                        "run": 1,
+                        "total": 2
+                    },
+                    {
+                        "offConcept": "CHOP",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "MESH",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "MONEY",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "STRETCH PIN PULL RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "COUNTER RD",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK DBL TWINS",
+                "pass": 6,
+                "run": 1,
+                "total": 7
+            },
+            {
+                "actions": [
+                    {
+                        "VERTS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "VERTS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "LOBO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "CROSSERS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "DBP",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "COUNTER RD",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "KICK",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST DBL TWINS",
+                "pass": 4,
+                "run": 2,
+                "total": 6
+            }
+        ],
+        "pass": 10,
+        "run": 3,
+        "totalPlays": 13
+    },
+    {
+        "formShell": "DBL TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "VERTS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "VERTS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK DBL TWINS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "DBL TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "VERTS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "VERTS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST DBL TWINS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "VERTS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "VERTS",
+                        "pass": 1,
+                        "run": 1,
+                        "total": 2
+                    },
+                    {
+                        "offConcept": "LOBO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "PIVOT-WHEEL-OUT",
+                        "pass": 2,
+                        "run": 1,
+                        "total": 3
+                    },
+                    {
+                        "offConcept": "COMEBACK-FLAT-CORNER",
+                        "pass": 1,
+                        "run": 1,
+                        "total": 2
+                    },
+                    {
+                        "offConcept": "DIG-PIVOT-SEAM",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "DIG-VERTICAL-BEND/X SHALLOW",
+                        "pass": 2,
+                        "run": 1,
+                        "total": 3
+                    },
+                    {
+                        "offConcept": "DBL MOVES",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "DBL SLANT-ARROW",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "INV $",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "MESH WHEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "SLANT-WHEEL-SLANT",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "VERTS/X CROSS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "ZONE RD RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "ZONE LOCK",
+                        "pass": 0,
+                        "run": 2,
+                        "total": 2
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 19,
+                "run": 2,
+                "total": 21
+            },
+            {
+                "actions": [
+                    {
+                        "LOBO": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LOBO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "DIG-PIVOT-SEAM",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    },
+                    {
+                        "offConcept": "QDP",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS OPEN",
+                "pass": 3,
+                "run": 0,
+                "total": 3
+            }
+        ],
+        "pass": 22,
+        "run": 2,
+        "totalPlays": 24
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "VERTS (Z DIG)": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "VERTS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LOBO": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LOBO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LOBO": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LOBO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "DBL TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "LOBO/SCISSORS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "LOBO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST DBL TWINS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PIVOT-WHEEL-OUT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "PIVOT-WHEEL-OUT",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PIVOT-WHEEL-OUT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "PIVOT-WHEEL-OUT",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "PIVOT-WHEEL-OUT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "PIVOT-WHEEL-OUT",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "COMEBACK-FLAT-CORNER": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COMEBACK-FLAT-CORNER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "COMEBACK-FLAT-CORNER": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COMEBACK-FLAT-CORNER",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "DIG-PIVOT-SEAM": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "DIG-PIVOT-SEAM",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "DIG-PIVOT-SEAM": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "DIG-PIVOT-SEAM",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "DIG-SEAM-BEND/X SHALLOW": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "DIG-VERTICAL-BEND/X SHALLOW",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "DIG-SEAM-BEND/X SHALLOW": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "DIG-VERTICAL-BEND/X SHALLOW",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "DBL TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CHOP": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "CHOP",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK DBL TWINS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "COMEBACK-FLAT-OUT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COMEBACK-FLAT-OUT",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "DBL TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CROSSERS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "CROSSERS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST DBL TWINS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "DBL MOVES": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "DBL MOVES",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "DBL SLANT-ARROW": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "DBL SLANT-ARROW",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "DBL TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "DBP": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "DBP",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST DBL TWINS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "DIG-POST-BEND/X SHALLOW": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "DIG-VERTICAL-BEND/X SHALLOW",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "INV $": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "INV $",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "DBL TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "MESH": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "MESH",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK DBL TWINS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "DIG-SEAM-BEND/X SHALLOW": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "MESH WHEEL",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "DBL TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "MONEY/SLANTS-T SWING": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "MONEY",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK DBL TWINS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "QDP": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "QDP",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "SLANT-WHEEL-SLANT": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "SLANT-WHEEL-SLANT",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "DBL TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "STRETCH CT ST/SLANTS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "STRETCH PIN PULL RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK DBL TWINS",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "VERTS/X CROSS": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "VERTS/X CROSS",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "ZONE RD WK/BUBBLE ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "ZONE RD RPO",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 1,
+                "run": 0,
+                "total": 1
+            }
+        ],
+        "pass": 1,
+        "run": 0,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "DBL TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OT RD ST": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER RD",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G WK DBL TWINS",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "DBL TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "CTR OT RD WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "COUNTER RD",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST DBL TWINS",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "ZONE LOCK WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "ZONE LOCK",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "TRIPS OPEN",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "ZONE LOCK WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "ZONE LOCK",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST TRIPS OPEN",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "DBL TWINS",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "KICK O WK": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "KICK",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "G ST DBL TWINS",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    },
+    {
+        "formShell": "EMPTY",
+        "offForms": [
+            {
+                "actions": [
+                    {
+                        "QB DRAW": 1
+                    }
+                ],
+                "offConcepts": [
+                    {
+                        "offConcept": "QB DRAW",
+                        "pass": 0,
+                        "run": 1,
+                        "total": 1
+                    }
+                ],
+                "offForm": "EG 3X2",
+                "pass": 0,
+                "run": 1,
+                "total": 1
+            }
+        ],
+        "pass": 0,
+        "run": 1,
+        "totalPlays": 1
+    }
+]
